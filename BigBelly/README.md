@@ -16,18 +16,12 @@ Each row represents one collection event for a given BigBelly at a given time an
 | StreamType |  The type of material the BigBelly holds. Typically in Philly, they are all Trash, but other customers have Single Stream, Bottles/Cans, Paper, etc.
 | Lat |  Latitude of BigBelly location
 | Long |  Longitude of BigBelly location
-| Timestamp |  The Date/Time of the collection  
+| Timestamp |  The Date/Time of the collection (Note: SHP, KMZ, and GeoJSON timestamps fields contain only dates. CSV contains full time/date timestamp.)
 | Level |  The fullness of the bin when it was collected at the timestamp. We use a GREEN/YELLOW/RED system. GREEN is fairly empty (about 30 gallons of trash), YELLOW is full (about 90 Gallons) and RED is the highest (about 150 gallons).
 
 
 ### Credits  
 
 2014 BigBelly Solar: The Smart Grid for Waste & Recycling TM
-
-### Use Limitations  
-
-- The data will not be used for any other purpose than the ECO Camp Hackathon June 21-22 2014
-- Upon request, BigBelly has access to view the resulting programs, application or tools created during the hackathon that have used this data set in whole or in part
-- BigBelly is acknowledged for providing the data set to ECO Camp
 
 Note: SHP, KMZ, and GeoJSON timestamps fields contain only dates. CSV contains full time/date timestamp.
