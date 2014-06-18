@@ -29,3 +29,5 @@ Each row represents one collection event for a given BigBelly at a given time an
 - The data will not be used for any other purpose than the ECO Camp Hackathon June 21-22 2014
 - Upon request, BigBelly has access to view the resulting programs, application or tools created during the hackathon that have used this data set in whole or in part
 - BigBelly is acknowledged for providing the data set to ECO Camp
+
+Note: SHP, KMZ, and GeoJSON timestamps fields contain only dates. CSV contains full time/date timestamp.
