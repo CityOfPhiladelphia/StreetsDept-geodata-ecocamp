@@ -19,3 +19,8 @@ A list of residents participating in the RecycleBank program as of March 2011
 ###Recycling Diversion Rates
 Recycling rates by sanitation district from 2011 through 2014
 
+##Credits
+Streets Department
+730 Municipal Services Building
+1401 John F. Kennedy Boulevard
+Philadelphia, PA 19102
