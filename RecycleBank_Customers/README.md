@@ -16,6 +16,8 @@ Point data with customer count for each street segment
 | STNAME |  Street Name
 | SEG_ID |  Segment ID
 | CustCount |   The number of RecycleBank customers partipicating in the segment
+| Lat | Latitude of the street segment
+| Long | Longitude of the street segment
 
 
 ### Credits
