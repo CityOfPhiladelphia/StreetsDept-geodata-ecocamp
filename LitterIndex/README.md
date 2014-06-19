@@ -9,7 +9,7 @@ Results of an annual survey conducted to track approximate levels of litter thro
 | Shape |  
 | PD_DAY |  
 | PD |  
-| COLLDAY |  
+| COLLDAY |  Collection Day of the Week
 | Shape_Leng |  
 | Shape_Area |  
 | SCORE |  
