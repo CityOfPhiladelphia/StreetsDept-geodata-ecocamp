@@ -11,9 +11,9 @@ Locations of BigBelly waste receptacles in Philadelphia
 | SN |  The serial number of the BigBelly on the street. Each BigBelly has a unique SN  
 | Station |  
 | StreamType |  The type of material the BigBelly holds. Typically in Philly, they are all Trash, but other customers have Single Stream, Bottles/Cans, Paper, etc.  
-| Customer |  
+| Customer |  The location's customer - The City of Philadelphia.
 | Desc_ |  
-| Status |  An indication of how much volume is in the vessel, ranging from Green to Yellow to Red where Green is low volume and Red is high volume.
+| Status |  Whether or not the location is in service.
 | Lat |  Latitude of BigBelly location  
 | Long |  Longitude of BigBelly location  
 
