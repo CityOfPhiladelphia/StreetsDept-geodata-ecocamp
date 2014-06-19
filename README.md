@@ -1,4 +1,21 @@
-StreetsDept-geodata-priv
+#StreetsDept-geodata-priv
 ========================
 
-Repository to stage open data from the streets department
+Repository to stage open data from the Streets Department.
+
+##Including:
+###Code Violation Notices
+Includes SWEEP violations, dumpster violations, litter violations, and more.
+
+###Big Belly Waste Receptacle Locations & Usage
+Includes locations and usage of the 1,000 big belly rubbish and recycling cans throughout the city.
+
+###Litter Index
+Results of an annual survey conducted to track approximate levels of litter throughout the city.
+
+###RecycleBank Participation
+A list of residents participating in the RecycleBank program as of March 2011
+
+###Recycling Diversion Rates
+Recycling rates by sanitation district from 2011 through 2014
+
