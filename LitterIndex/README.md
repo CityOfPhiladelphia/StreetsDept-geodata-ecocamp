@@ -1,4 +1,5 @@
-# litterindexbnd  
+# Litter Index
+Results of an annual survey conducted to track approximate levels of litter throughout the city
 
 ### Data Dictionary
 
