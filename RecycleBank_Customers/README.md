@@ -2,7 +2,7 @@
 
 ### Summary  
 
-Count of residents participating in the RecycleBank program by street segment
+Count of residents participating in the RecycleBank program by street segment.
 
 ### Description  
 
@@ -12,12 +12,15 @@ Point data with customer count for each street segment
 
 | Field | Description  
 | ----- | :----------:  
-| L_HUNDRED |  
-| STNAME |  
-| SEG_ID |  
-| CustCount |  
+| L_HUNDRED |  One hundred block of the given street
+| STNAME |  Street Name
+| SEG_ID |  Segment ID
+| CustCount |   The number of RecycleBank customers partipicating in the segment
 
 
-### Use Limitations  
+### Credits
+Streets Department
 
-None
+730 Municipal Services Building, 
+1401 JFK Blvd.,
+Philadelphia, PA 19102
