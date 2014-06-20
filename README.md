@@ -1,7 +1,7 @@
-#StreetsDept-geodata-priv
+# Streets Department EcoCamp Data
 ========================
 
-Repository to stage open data from the Streets Department.
+Envirionmental data released by the Philadelphia Streets Department for [EcoCamp](http://phillyecocamp.org)
 
 ##Including:
 ###Code Violation Notices
