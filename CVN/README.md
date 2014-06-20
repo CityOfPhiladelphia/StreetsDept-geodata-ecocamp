@@ -13,7 +13,7 @@ Pardon the field names! We were under a time crunch.
 | Ticket_Num |  Ticket number
 | Property_B |  Whether or not the ticket is for a property-based violation (boolean)
 | Violation_ | Violation type ID
-| Violation1 | Violation Code
+| Violation1 | Section of Philadelphia Code where violation is defined. Lookup at [phillycode.com](http://phillycode.com/10/10-700/)
 | Violatio_1 | Violation description
 | Fine_Amoun | Amount of the penalty/fine (max $300.00)
 | Warning | Whether or not it was a warning (boolean)
