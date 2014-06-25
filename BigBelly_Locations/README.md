@@ -9,7 +9,7 @@ Locations of BigBelly waste receptacles in Philadelphia
 | Field | Description  
 | ----- | :----------:  
 | SN |  The serial number of the BigBelly on the street. Each BigBelly has a unique SN  
-| Station |  
+| Station |  When the station field is yes the bigbelly has an attached recycler. When No, it is trash only.
 | StreamType |  The type of material the BigBelly holds. Typically in Philly, they are all Trash, but other customers have Single Stream, Bottles/Cans, Paper, etc.  
 | Customer |  The location's customer - The City of Philadelphia.
 | Desc_ |  
